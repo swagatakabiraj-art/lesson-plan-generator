@@ -1,5 +1,7 @@
-
+google-genai
 python-dotenv
 rich
-fastapi 
+fastapi
 uvicorn
+aiofiles
+pydantic
